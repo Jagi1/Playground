@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ten plik jest kontenerem dla NavigationBar -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Item jest to pojedynczy element NavigationBar -->
+    <item
+        android:id="@+id/navigation_songs"
+        android:icon="@drawable/ic_music_note_white_24dp"
+        android:title="Songs"/>
+
+    <item
+        android:id="@+id/navigation_albums"
+        android:icon="@drawable/ic_album_white_24dp"
+        android:title="Albums"/>
+
+    <item
+        android:id="@+id/navigation_artists"
+        android:icon="@drawable/ic_person_white_24dp"
+        android:title="Artists"/>
+
+</menu>

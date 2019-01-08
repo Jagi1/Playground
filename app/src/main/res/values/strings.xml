@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Playground</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Sed vestibulum felis in enim egestas, sit amet posuere dui varius.
+        Pellentesque molestie accumsan sem et tempus. Nam odio libero, rutrum lobortis orci sit
+        amet, aliquam accumsan neque. Vivamus feugiat laoreet ligula, eu mollis magna mattis quis.
+        Aenean nec libero ultricies, accumsan tellus quis, dapibus velit. Vivamus sit amet augue
+        tortor. Aenean non euismod risus. Aenean congue mauris eget augue porta sagittis. Nulla
+        condimentum egestas ex, nec varius nulla cursus ut. Mauris sem erat, congue vitae tellus
+        vitae, aliquet efficitur ligula. Mauris odio odio, mattis non pretium non, varius sit amet
+        lectus. Vestibulum nunc orci, rutrum et nibh sed, fermentum facilisis tortor. Proin eget
+        erat sit amet ipsum ullamcorper porttitor. Aliquam gravida nec lorem et posuere. Mauris
+        eu enim nibh.</string>
+</resources>
